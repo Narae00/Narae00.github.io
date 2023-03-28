@@ -102,10 +102,10 @@ translate_langs:
      text: Russian
 
 # You can choose a theme color
-Default theme colors as below:
-coolblack: #090a0b
-spacegrey: #353535
-snowwhite: #ffffff
+#Default theme colors as below:
+#coolblack: #090a0b
+#spacegrey: #353535
+#snowwhite: #ffffff
 #
 theme_color: snowwhite
 #
@@ -138,11 +138,11 @@ night_mode: "auto"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
-# code_badge:
-#   enabled: "true"
-#   color: "#fff"
-#   background_color: "#ff4e00"
-#   text_transform: "uppercase"  # ("uppercase", "lowercase", "capitalize")
+code_badge:
+   enabled: "true"
+   color: "#fff"
+   background_color: "#ff4e00"
+   text_transform: "uppercase"  # ("uppercase", "lowercase", "capitalize")
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -157,7 +157,7 @@ night_mode: "auto"
 defaults:
     home:
       heading: "Narae's oss labortory"
-      subheading: "It's too hard."
+      subheading: "It's too hard!"
 #     banner: "Your image url"
 
 # Banner default settings
