@@ -31,7 +31,7 @@ author: Narae00
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
 current year: {2023}
-author: {{author}} (Value is the same as site.author)
+author: author (Value is the same as site.author)
 # * copyright: (c) - ©
 # * copyleft: (cleft)
 # * sound recording copyright: (p) - ℗
