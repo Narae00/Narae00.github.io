@@ -154,11 +154,11 @@ translate_langs:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Narea의 oss 공부처"
-#     subheading: "정말 어렵습니다."
-#     banner: "Your image url"
+defaults:
+  home:
+     heading: "Narae의 oss 공부처"
+     subheading: "정말 어렵습니다."
+#    banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
