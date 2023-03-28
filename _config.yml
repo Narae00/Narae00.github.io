@@ -156,8 +156,8 @@ translate_langs:
 # Page default value
 # defaults:
 #   home:
-    heading: "Narae's oss labortory"
-    subheading: " It's too hard."
+heading: "Narae's oss labortory"
+subheading: "It's too hard."
 #    banner: "Your image url"
 
 # Banner default settings
