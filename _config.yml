@@ -155,9 +155,9 @@ translate_langs:
 
 # Page default value
 defaults:
-  home:
-     heading: "Narae의 oss 공부처"
-     subheading: "정말 어렵습니다."
+      home:
+        heading: "Narae의 oss 공부처"
+        subheading: "정말 어렵습니다."
 #    banner: "Your image url"
 
 # Banner default settings
