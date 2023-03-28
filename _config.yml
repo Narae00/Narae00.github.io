@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Narae's os study
+title: Narae's oss study
 email: kms4899a@naver.com
 author: Narae00
 
