@@ -24,7 +24,7 @@ sidebar: []
 라고 하네요.
 저는 이 사이트를 어떻게 만들어나갈지 생각하지 않았지만 일단 떠오르는 대로 만들어 나갈 것입니다.(심심할 때 마다.)
 
-//To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take //a look at the source for this post to get an idea about how it works.
+<!-- 주석 내용 --> To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 ## section 1
 
