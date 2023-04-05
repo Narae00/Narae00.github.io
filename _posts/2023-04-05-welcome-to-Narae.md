@@ -26,17 +26,40 @@ sidebar: []
 
 <!--   To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works. -->
 
-## section 1
+## 안녕 세계!
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight python %}
+
+print("Hello World!")   #hello world!를 출력하는 python 코드
+
 {% endhighlight %}
+
+
+```cpp
+#include <iostream>
+using namespace std; //이걸 통해 cout 이나 cin 앞에 std::를 생략 할 수 있다.
+
+int main() {
+  cout << "Hello World!"<<endl; //endl 은 개행 문자. like c언어의 \n
+  return 0;
+}
+// c++로 hello world! 출력하는 코드.
+```
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+  printf("Hello World!");
+  return 0;
+}
+  
+```
+
+
 
 ## section 2
 
@@ -51,26 +74,3 @@ $ a \* b = c ^ b $
 $ 2^{\frac{n-1}{3}} $
 
 $ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
