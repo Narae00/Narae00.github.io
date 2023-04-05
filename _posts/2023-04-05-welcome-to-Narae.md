@@ -20,9 +20,11 @@ tags: jekyll theme yat Narae ㅎㅎ
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+'다양한 방법으로 사이트를 재구축할 수 있지만 가장 일반적인 방법은 웹 서버를 시작하고 파일이 업데이트될 때 사이트를 자동으로 재생성하는 `jekyll serve`를 실행하는 것입니다.'
+라고 하네요.
+저는 이 사이트를 어떻게 만들어나갈지 생각하지 않았지만 일단 떠오르는 대로 만들어 나갈 것입니다.(심심할 때 마다.)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+//To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take //a look at the source for this post to get an idea about how it works.
 
 ## section 1
 
